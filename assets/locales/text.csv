@@ -48,14 +48,14 @@ Proteins
 45 MP","Хемосинтезация
 Белки
 45 МО"
-CHITIN,Chitin,Хитин
+CHITIN,Chitin,Quitina
 CHITIN_50_MP,"Chitin
-50 MP","Хитин
-50 МО"
-CHLOROPLAST,Chloroplast,Хлоропласт
+50 MP","Quitina
+50 PM"
+CHLOROPLAST,Chloroplast,Cloroplasto
 CHLOROPLAST_50_MP,"Chloroplast
-50 MP","Хлоропласт
-50 МО"
+50 MP","Cloroplasto
+50 PM"
 CHLOROPLAST_LONG,"The chloroplast is a double membrane structure containing photosensitive pigments stacked together in membranous sacs. It is a prokaryote that has been assimilated for use by its eukaryotic host. The pigments in the chloroplast are able to use the energy of light to produce glucose from water and gaseous carbon dioxide in a process called Photosynthesis. These pigments are also what give it a distinctive colour. The rate of its glucose production scales with the concentration of carbon dioxide, and intensity of light.",
 CILIA,Cilia,Ресничка
 CILIA_40_MP,"Cilia
